@@ -3,3 +3,14 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+.banner-container{
+border-radius: 8px;
+}
+
+.carousel-item{
+    background: url('./images/Rectangle\ 7.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+}
